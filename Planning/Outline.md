@@ -57,14 +57,16 @@ About 12 weeks of instruction. Assuming 1 lecture per week.
 - Calibration and zeroing
 - Torque sensing
 
-## Netwroking 1
+## Networking 1
 
 - Types of digital interfaces
 - SPI, I2C, UART
-- Getting them to work with Arduino.
+- Arduino and Digital comms.
 
-## Labs and Ideas
+## Labs and Ideas Assume 5 labs available
 
 - Temperature measurement with different sensors. Similar to previous.
 - Strain gauges. Give pre-fabbed bars with strain gauges for each student.
--
+- Getting to know the Arduino. Interfacing with some type of sensor.
+- Design project lab 1 (planning, calculations, designing) Proposal Report
+- Design project lab 2 (building, testing, results) Final Report
