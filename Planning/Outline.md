@@ -1,11 +1,11 @@
 About 12 weeks of instruction. Assuming 1 lecture per week.
 
-## Introduction 1
+#### Introduction 1
 
 - Overview of course
 - Homework, assignments, quizes and final project info.
 
-## Measurement 1
+#### Measurement 1
 
 - Measurement system
 - ADC signal conditioning
@@ -13,21 +13,21 @@ About 12 weeks of instruction. Assuming 1 lecture per week.
 - Filtering, amplification
 - Digital Conversion
 
-## Transducer Terminology 2
+#### Transducer Terminology 2
 
 - Resolution, Threshold, Accuracy, Precision
 - How calibration works
 - Where errors come from
 - Review Examples of calculating process variables from voltages.
 
-## Errors 1
+#### Errors 1
 
 - Where they come from.
 - How to calculate them.
 - How to mitigate them.
 - Going through datasheets and calculating error bounds.
 
-## Arduino workings 1
+#### Arduino workings 1
 
 - How to get set up
 - Power rails
@@ -35,19 +35,19 @@ About 12 weeks of instruction. Assuming 1 lecture per week.
 - The IDE
 - How the code works
 
-## Sampling Theory 2
+#### Sampling Theory 2
 
 - How ADC's work in depth
 - Frequncy domain and aliasing
 - Errors from ADC
 - Types of reconstruction and their errors.
 
-## Temperature Theory 1
+#### Temperature Theory 1
 
 - Different types of sensors. Thermocouples, thermistors and semi-conductor.
 - Dynamic response and error. Time constants.
 
-## Strain Gauge Theory 2
+#### Strain Gauge Theory 2
 
 - How it works.
 - Wheatstone bridges.
@@ -57,13 +57,13 @@ About 12 weeks of instruction. Assuming 1 lecture per week.
 - Calibration and zeroing
 - Torque sensing
 
-## Networking 1
+#### Networking 1
 
 - Types of digital interfaces
 - SPI, I2C, UART
 - Arduino and Digital comms.
 
-## Labs and Ideas Assume 5 labs available
+#### Labs and Ideas Assume 5 labs available
 
 - Temperature measurement with different sensors. Similar to previous.
 - Strain gauges. Give pre-fabbed bars with strain gauges for each student.
