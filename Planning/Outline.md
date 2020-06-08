@@ -65,8 +65,54 @@ About 12 weeks of instruction. Assuming 1 lecture per week.
 
 #### Labs and Ideas Assume 5 labs available
 
-- Temperature measurement with different sensors. Similar to previous.
-- Strain gauges. Give pre-fabbed bars with strain gauges for each student.
-- Getting to know the Arduino. Interfacing with some type of sensor.
-- Design project lab 1 (planning, calculations, designing) Proposal Report
-- Design project lab 2 (building, testing, results) Final Report
+## 1) Matlab Simulation Lab
+
+### Purpose
+
+To learn about signal conditioning, ADC's, Filtering, Noise Etc
+
+### About
+
+Students use matlab and simulink to simulate a DAQ system with various parameters.
+
+## 2) Getting Started With the Arduino
+
+### Purpose
+
+To learn about how the Arduino works and getting students to write simple programs and measure from a simple sensor.
+
+### About
+
+Students are given Arduino kit and are led through a series of tutorials for getting started and setting things up.
+Students will also learn to write a short program and display sensor data.
+
+## 3) Temperature Lab
+
+### Purpose
+
+To learn about how three different types of temperature sensors work while also learning about amplifiers and circuit building.
+
+### About
+
+Students create a wiring schematic and wire up three types of temperature sensors and measure boiling and ice water.
+
+## 4) Strain Gauge Lab
+
+### Purpose
+
+To learn about how to interface with strain gauges with a wheatstone bridge as well as amplifiers.
+
+### About
+
+Students hook up and write a program to convert strain gauge measurements to force.
+
+## 5) Digital Sensors and Communication
+
+### Purpose
+
+To learn about I2C and SPI and how to hook up and read/set data from sensors that utilize these protocols.
+Learn about pros and cons.
+
+### About
+
+Students are given various digital sensors and are asked to hook them up and display data coming from there sensors using digital means.
